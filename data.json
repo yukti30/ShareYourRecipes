@@ -1,0 +1,1134 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Tikka",
+    "cuisine": "Indian",
+    "category": "Appetizer",
+    "serves": 3,
+    "postedBy": { "name": "Anita Sharma", "userId": "u101" },
+    "ingredients": [
+      { "name": "Paneer", "quantity": 250, "unit": "grams" },
+      { "name": "Yogurt", "quantity": 120, "unit": "ml" },
+      { "name": "Ginger Garlic Paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "Red Chili Powder", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Cut paneer into cubes",
+      "Prepare spiced yogurt marinade",
+      "Marinate paneer for 30 minutes",
+      "Grill until golden"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/paneer-tikka-1.jpg",
+      "https://cdn.recipesapp.com/paneer-tikka-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=paneer_tikka"
+  },
+
+  {
+    "id": 2,
+    "title": "Veg Spring Rolls",
+    "cuisine": "Chinese",
+    "category": "Appetizer",
+    "serves": 4,
+    "postedBy": { "name": "Li Chen", "userId": "u102" },
+    "ingredients": [
+      { "name": "Spring Roll Sheets", "quantity": 8, "unit": "pieces" },
+      { "name": "Cabbage", "quantity": 1, "unit": "cup" },
+      { "name": "Carrot", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Chop vegetables finely",
+      "Stir fry vegetables",
+      "Fill and roll sheets",
+      "Deep fry until crisp"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/spring-rolls-1.jpg",
+      "https://cdn.recipesapp.com/spring-rolls-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=spring_rolls"
+  },
+
+  {
+    "id": 3,
+    "title": "Chicken Wings",
+    "cuisine": "American",
+    "category": "Appetizer",
+    "serves": 4,
+    "postedBy": { "name": "Mark Johnson", "userId": "u103" },
+    "ingredients": [
+      { "name": "Chicken Wings", "quantity": 500, "unit": "grams" },
+      { "name": "Hot Sauce", "quantity": 3, "unit": "tbsp" },
+      { "name": "Butter", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Marinate wings",
+      "Bake at 200°C",
+      "Toss with sauce"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/wings-1.jpg",
+      "https://cdn.recipesapp.com/wings-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chicken_wings"
+  },
+
+  {
+    "id": 4,
+    "title": "Hummus",
+    "cuisine": "Middle Eastern",
+    "category": "Appetizer",
+    "serves": 3,
+    "postedBy": { "name": "Sara Khalid", "userId": "u104" },
+    "ingredients": [
+      { "name": "Chickpeas", "quantity": 1, "unit": "cup" },
+      { "name": "Tahini", "quantity": 2, "unit": "tbsp" },
+      { "name": "Olive Oil", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Blend all ingredients",
+      "Adjust seasoning",
+      "Serve chilled"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/hummus-1.jpg",
+      "https://cdn.recipesapp.com/hummus-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=hummus"
+  },
+
+  {
+    "id": 5,
+    "title": "Samosa",
+    "cuisine": "Indian",
+    "category": "Appetizer",
+    "serves": 5,
+    "postedBy": { "name": "Rohit Verma", "userId": "u105" },
+    "ingredients": [
+      { "name": "Potato", "quantity": 3, "unit": "medium" },
+      { "name": "Flour", "quantity": 2, "unit": "cups" },
+      { "name": "Green Peas", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare dough",
+      "Cook potato filling",
+      "Shape samosas",
+      "Deep fry"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/samosa-1.jpg",
+      "https://cdn.recipesapp.com/samosa-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=samosa"
+  },
+
+  {
+    "id": 6,
+    "title": "Butter Chicken",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Kunal Singh", "userId": "u201" },
+    "ingredients": [
+      { "name": "Chicken", "quantity": 500, "unit": "grams" },
+      { "name": "Butter", "quantity": 50, "unit": "grams" },
+      { "name": "Tomato Puree", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Marinate chicken",
+      "Cook in butter",
+      "Add tomato gravy",
+      "Finish with cream"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/butter-chicken-1.jpg",
+      "https://cdn.recipesapp.com/butter-chicken-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=butter_chicken"
+  },
+
+  {
+    "id": 7,
+    "title": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Marco Rossi", "userId": "u202" },
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": 250, "unit": "grams" },
+      { "name": "Eggs", "quantity": 2, "unit": "pieces" },
+      { "name": "Parmesan", "quantity": 50, "unit": "grams" }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare egg-cheese mix",
+      "Combine off heat"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/carbonara-1.jpg",
+      "https://cdn.recipesapp.com/carbonara-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=carbonara"
+  },
+
+  {
+    "id": 8,
+    "title": "Veg Biryani",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Neha Patel", "userId": "u203" },
+    "ingredients": [
+      { "name": "Basmati Rice", "quantity": 2, "unit": "cups" },
+      { "name": "Mixed Vegetables", "quantity": 1.5, "unit": "cups" }
+    ],
+    "steps": [
+      "Cook rice",
+      "Prepare vegetable masala",
+      "Layer and steam"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/biryani-1.jpg",
+      "https://cdn.recipesapp.com/biryani-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=veg_biryani"
+  },
+
+  {
+    "id": 9,
+    "title": "Grilled Salmon",
+    "cuisine": "International",
+    "category": "Main",
+    "serves": 2,
+    "postedBy": { "name": "Olivia Brown", "userId": "u204" },
+    "ingredients": [
+      { "name": "Salmon Fillet", "quantity": 2, "unit": "pieces" },
+      { "name": "Olive Oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Season salmon",
+      "Grill 4 minutes each side"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/salmon-1.jpg",
+      "https://cdn.recipesapp.com/salmon-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=grilled_salmon"
+  },
+
+  {
+    "id": 10,
+    "title": "Chicken Biryani",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Faizan Ali", "userId": "u205" },
+    "ingredients": [
+      { "name": "Basmati Rice", "quantity": 2, "unit": "cups" },
+      { "name": "Chicken", "quantity": 500, "unit": "grams" },
+      { "name": "Yogurt", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Marinate chicken",
+      "Cook rice separately",
+      "Layer rice and chicken",
+      "Dum cook for 20 minutes"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/chicken-biryani-1.jpg",
+      "https://cdn.recipesapp.com/chicken-biryani-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chicken_biryani"
+  },
+  {
+    "id": 11,
+    "title": "Palak Paneer",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Meera Joshi", "userId": "u206" },
+    "ingredients": [
+      { "name": "Paneer", "quantity": 200, "unit": "grams" },
+      { "name": "Spinach", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Blanch spinach",
+      "Prepare spinach puree",
+      "Add paneer cubes"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/palak-paneer-1.jpg",
+      "https://cdn.recipesapp.com/palak-paneer-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=palak_paneer"
+  },
+  {
+    "id": 12,
+    "title": "Tacos",
+    "cuisine": "Mexican",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Carlos Gomez", "userId": "u207" },
+    "ingredients": [
+      { "name": "Taco Shells", "quantity": 6, "unit": "pieces" },
+      { "name": "Minced Chicken", "quantity": 300, "unit": "grams" }
+    ],
+    "steps": [
+      "Cook chicken filling",
+      "Warm taco shells",
+      "Assemble tacos"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/tacos-1.jpg",
+      "https://cdn.recipesapp.com/tacos-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=tacos"
+  },
+  {
+    "id": 13,
+    "title": "Fried Rice",
+    "cuisine": "Chinese",
+    "category": "Main",
+    "serves": 2,
+    "postedBy": { "name": "Wang Lei", "userId": "u208" },
+    "ingredients": [
+      { "name": "Cooked Rice", "quantity": 2, "unit": "cups" },
+      { "name": "Mixed Vegetables", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Heat wok",
+      "Stir fry vegetables",
+      "Add rice and sauces"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/fried-rice-1.jpg",
+      "https://cdn.recipesapp.com/fried-rice-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=fried_rice"
+  },
+  {
+    "id": 14,
+    "title": "Lasagna",
+    "cuisine": "Italian",
+    "category": "Main",
+    "serves": 5,
+    "postedBy": { "name": "Giulia Romano", "userId": "u209" },
+    "ingredients": [
+      { "name": "Lasagna Sheets", "quantity": 8, "unit": "pieces" },
+      { "name": "Minced Meat", "quantity": 400, "unit": "grams" }
+    ],
+    "steps": [
+      "Prepare meat sauce",
+      "Layer sheets and sauce",
+      "Bake until cooked"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/lasagna-1.jpg",
+      "https://cdn.recipesapp.com/lasagna-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=lasagna"
+  },
+  
+  {
+    "id": 15,
+    "title": "Rajma Chawal",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Sunita Rao", "userId": "u210" },
+    "ingredients": [
+      { "name": "Rajma", "quantity": 1, "unit": "cup" },
+      { "name": "Rice", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Soak rajma overnight",
+      "Pressure cook rajma",
+      "Prepare gravy",
+      "Serve with rice"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/rajma-1.jpg",
+      "https://cdn.recipesapp.com/rajma-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=rajma_chawal"
+  },
+  {
+    "id": 16,
+    "title": "Chole Bhature",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Amit Khanna", "userId": "u211" },
+    "ingredients": [
+      { "name": "Chickpeas", "quantity": 1, "unit": "cup" },
+      { "name": "Flour", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Cook chole with spices",
+      "Prepare bhature dough",
+      "Deep fry bhature",
+      "Serve hot"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/chole-bhature-1.jpg",
+      "https://cdn.recipesapp.com/chole-bhature-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chole_bhature"
+  },
+  {
+    "id": 17,
+    "title": "Chicken Curry",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Imran Sheikh", "userId": "u212" },
+    "ingredients": [
+      { "name": "Chicken", "quantity": 600, "unit": "grams" },
+      { "name": "Onion", "quantity": 2, "unit": "medium" }
+    ],
+    "steps": [
+      "Fry onions",
+      "Add chicken and spices",
+      "Cook till tender"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/chicken-curry-1.jpg",
+      "https://cdn.recipesapp.com/chicken-curry-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chicken_curry"
+  },
+  {
+    "id": 18,
+    "title": "Fish Curry",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Anupama Das", "userId": "u213" },
+    "ingredients": [
+      { "name": "Fish", "quantity": 500, "unit": "grams" },
+      { "name": "Coconut Milk", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare curry base",
+      "Add fish pieces",
+      "Simmer gently"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/fish-curry-1.jpg",
+      "https://cdn.recipesapp.com/fish-curry-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=fish_curry"
+  },
+  {
+    "id": 19,
+    "title": "Veg Pulao",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Rina Shah", "userId": "u214" },
+    "ingredients": [
+      { "name": "Rice", "quantity": 2, "unit": "cups" },
+      { "name": "Vegetables", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Saute spices",
+      "Add rice and vegetables",
+      "Cook till fluffy"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/pulao-1.jpg",
+      "https://cdn.recipesapp.com/pulao-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=veg_pulao"
+  },
+
+  {
+    "id": 20,
+    "title": "Dal Tadka",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Kavita Iyer", "userId": "u215" },
+    "ingredients": [
+      { "name": "Toor Dal", "quantity": 1, "unit": "cup" },
+      { "name": "Ghee", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Pressure cook dal",
+      "Prepare tadka",
+      "Mix and simmer"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/dal-tadka-1.jpg",
+      "https://cdn.recipesapp.com/dal-tadka-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=dal_tadka"
+  },
+  {
+    "id": 21,
+    "title": "Aloo Gobi",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Pankaj Mishra", "userId": "u216" },
+    "ingredients": [
+      { "name": "Potato", "quantity": 3, "unit": "medium" },
+      { "name": "Cauliflower", "quantity": 1, "unit": "small" }
+    ],
+    "steps": [
+      "Saute spices",
+      "Add vegetables",
+      "Cook till tender"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/aloo-gobi-1.jpg",
+      "https://cdn.recipesapp.com/aloo-gobi-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=aloo_gobi"
+  },
+  {
+    "id": 22,
+    "title": "Matar Paneer",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Seema Kapoor", "userId": "u217" },
+    "ingredients": [
+      { "name": "Paneer", "quantity": 250, "unit": "grams" },
+      { "name": "Green Peas", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare tomato gravy",
+      "Add peas and paneer",
+      "Simmer gently"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/matar-paneer-1.jpg",
+      "https://cdn.recipesapp.com/matar-paneer-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=matar_paneer"
+  },
+  {
+    "id": 23,
+    "title": "Kadai Chicken",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Arjun Malhotra", "userId": "u218" },
+    "ingredients": [
+      { "name": "Chicken", "quantity": 600, "unit": "grams" },
+      { "name": "Capsicum", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Cook chicken",
+      "Add kadai masala",
+      "Add capsicum and cook"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/kadai-chicken-1.jpg",
+      "https://cdn.recipesapp.com/kadai-chicken-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=kadai_chicken"
+  },
+  {
+    "id": 24,
+    "title": "Veg Kofta",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Nandini Sethi", "userId": "u219" },
+    "ingredients": [
+      { "name": "Mixed Vegetables", "quantity": 2, "unit": "cups" },
+      { "name": "Tomato Puree", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare kofta balls",
+      "Fry koftas",
+      "Add to gravy"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/veg-kofta-1.jpg",
+      "https://cdn.recipesapp.com/veg-kofta-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=veg_kofta"
+  },
+  {
+    "id": 25,
+    "title": "Thai Green Curry",
+    "cuisine": "Thai",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Somchai Prasert", "userId": "u220" },
+    "ingredients": [
+      { "name": "Coconut Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Green Curry Paste", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Heat curry paste",
+      "Add coconut milk",
+      "Add vegetables/protein"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/thai-green-curry-1.jpg",
+      "https://cdn.recipesapp.com/thai-green-curry-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=thai_green_curry"
+  },
+  {
+    "id": 26,
+    "title": "Chicken Alfredo",
+    "cuisine": "Italian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Daniel Russo", "userId": "u221" },
+    "ingredients": [
+      { "name": "Pasta", "quantity": 250, "unit": "grams" },
+      { "name": "Chicken", "quantity": 300, "unit": "grams" }
+    ],
+    "steps": [
+      "Cook pasta",
+      "Prepare creamy sauce",
+      "Combine with chicken"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/alfredo-1.jpg",
+      "https://cdn.recipesapp.com/alfredo-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chicken_alfredo"
+  },
+  {
+    "id": 27,
+    "title": "Shahi Paneer",
+    "cuisine": "Indian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Ruchi Aggarwal", "userId": "u222" },
+    "ingredients": [
+      { "name": "Paneer", "quantity": 250, "unit": "grams" },
+      { "name": "Cashew Paste", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare rich gravy",
+      "Add paneer",
+      "Simmer gently"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/shahi-paneer-1.jpg",
+      "https://cdn.recipesapp.com/shahi-paneer-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=shahi_paneer"
+  },
+  {
+    "id": 28,
+    "title": "Ramen",
+    "cuisine": "Japanese",
+    "category": "Main",
+    "serves": 2,
+    "postedBy": { "name": "Kenji Tanaka", "userId": "u223" },
+    "ingredients": [
+      { "name": "Ramen Noodles", "quantity": 2, "unit": "packs" },
+      { "name": "Broth", "quantity": 3, "unit": "cups" }
+    ],
+    "steps": [
+      "Prepare broth",
+      "Cook noodles",
+      "Assemble bowl"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/ramen-1.jpg",
+      "https://cdn.recipesapp.com/ramen-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=ramen"
+  },
+  {
+    "id": 29,
+    "title": "Beef Stroganoff",
+    "cuisine": "Russian",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Ivan Petrov", "userId": "u224" },
+    "ingredients": [
+      { "name": "Beef", "quantity": 500, "unit": "grams" },
+      { "name": "Mushrooms", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Cook beef",
+      "Add mushrooms",
+      "Finish with cream"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/stroganoff-1.jpg",
+      "https://cdn.recipesapp.com/stroganoff-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=beef_stroganoff"
+  },
+  {
+    "id": 30,
+    "title": "Veg Manchurian",
+    "cuisine": "Indo-Chinese",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Ajay Kulkarni", "userId": "u225" },
+    "ingredients": [
+      { "name": "Vegetable Balls", "quantity": 12, "unit": "pieces" },
+      { "name": "Soy Sauce", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Prepare sauce",
+      "Add veg balls",
+      "Toss well"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/manchurian-1.jpg",
+      "https://cdn.recipesapp.com/manchurian-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=veg_manchurian"
+  },
+  {
+    "id": 31,
+    "title": "Chicken Shawarma",
+    "cuisine": "Middle Eastern",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Omar Hassan", "userId": "u226" },
+    "ingredients": [
+      { "name": "Chicken", "quantity": 400, "unit": "grams" },
+      { "name": "Pita Bread", "quantity": 3, "unit": "pieces" }
+    ],
+    "steps": [
+      "Marinate chicken",
+      "Grill chicken",
+      "Assemble wrap"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/shawarma-1.jpg",
+      "https://cdn.recipesapp.com/shawarma-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chicken_shawarma"
+  },
+  {
+    "id": 32,
+    "title": "Paneer Fried Rice",
+    "cuisine": "Indo-Chinese",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Rohini Desai", "userId": "u227" },
+    "ingredients": [
+      { "name": "Cooked Rice", "quantity": 2, "unit": "cups" },
+      { "name": "Paneer", "quantity": 150, "unit": "grams" }
+    ],
+    "steps": [
+      "Stir fry paneer",
+      "Add rice and sauces",
+      "Toss well"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/paneer-fried-rice-1.jpg",
+      "https://cdn.recipesapp.com/paneer-fried-rice-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=paneer_fried_rice"
+  },
+  {
+    "id": 33,
+    "title": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "category": "Main",
+    "serves": 3,
+    "postedBy": { "name": "Elena Conti", "userId": "u228" },
+    "ingredients": [
+      { "name": "Arborio Rice", "quantity": 1, "unit": "cup" },
+      { "name": "Mushrooms", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Saute mushrooms",
+      "Add rice and stock gradually",
+      "Cook till creamy"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/risotto-1.jpg",
+      "https://cdn.recipesapp.com/risotto-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=mushroom_risotto"
+  },
+  {
+    "id": 34,
+    "title": "BBQ Chicken",
+    "cuisine": "American",
+    "category": "Main",
+    "serves": 4,
+    "postedBy": { "name": "Jason Miller", "userId": "u229" },
+    "ingredients": [
+      { "name": "Chicken", "quantity": 800, "unit": "grams" },
+      { "name": "BBQ Sauce", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Marinate chicken",
+      "Grill with BBQ sauce",
+      "Cook till charred"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/bbq-chicken-1.jpg",
+      "https://cdn.recipesapp.com/bbq-chicken-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=bbq_chicken"
+  },
+  {
+    "id": 35,
+    "title": "Veg Lasagna",
+    "cuisine": "Italian",
+    "category": "Main",
+    "serves": 5,
+    "postedBy": { "name": "Sophia Romano", "userId": "u230" },
+    "ingredients": [
+      { "name": "Lasagna Sheets", "quantity": 8, "unit": "pieces" },
+      { "name": "Mixed Vegetables", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Prepare veggie sauce",
+      "Layer sheets and sauce",
+      "Bake until done"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/veg-lasagna-1.jpg",
+      "https://cdn.recipesapp.com/veg-lasagna-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=veg_lasagna"
+  }, 
+  
+  {
+    "id": 36,
+    "title": "Gulab Jamun",
+    "cuisine": "Indian",
+    "category": "Dessert",
+    "serves": 6,
+    "postedBy": { "name": "Pooja Malhotra", "userId": "u301" },
+    "ingredients": [
+      { "name": "Milk Powder", "quantity": 1, "unit": "cup" },
+      { "name": "Sugar", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Prepare dough",
+      "Fry balls",
+      "Soak in syrup"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/gulab-jamun-1.jpg",
+      "https://cdn.recipesapp.com/gulab-jamun-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=gulab_jamun"
+  },
+
+  {
+    "id": 37,
+    "title": "Cheesecake",
+    "cuisine": "American",
+    "category": "Dessert",
+    "serves": 6,
+    "postedBy": { "name": "Emily Stone", "userId": "u302" },
+    "ingredients": [
+      { "name": "Cream Cheese", "quantity": 250, "unit": "grams" },
+      { "name": "Sugar", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare base",
+      "Mix filling",
+      "Bake and chill"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/cheesecake-1.jpg",
+      "https://cdn.recipesapp.com/cheesecake-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=cheesecake"
+  },
+  {
+    "id": 38,
+    "title": "Tiramisu",
+    "cuisine": "Italian",
+    "category": "Dessert",
+    "serves": 5,
+    "postedBy": { "name": "Luca Bianchi", "userId": "u303" },
+    "ingredients": [
+      { "name": "Mascarpone", "quantity": 250, "unit": "grams" },
+      { "name": "Coffee", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare coffee dip",
+      "Layer biscuits and cream",
+      "Chill overnight"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/tiramisu-1.jpg",
+      "https://cdn.recipesapp.com/tiramisu-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=tiramisu"
+  },
+  {
+    "id": 39,
+    "title": "Ice Cream Sundae",
+    "cuisine": "International",
+    "category": "Dessert",
+    "serves": 2,
+    "postedBy": { "name": "Ryan Lee", "userId": "u304" },
+    "ingredients": [
+      { "name": "Vanilla Ice Cream", "quantity": 2, "unit": "scoops" },
+      { "name": "Chocolate Syrup", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Scoop ice cream",
+      "Add toppings",
+      "Serve immediately"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/sundae-1.jpg",
+      "https://cdn.recipesapp.com/sundae-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=ice_cream_sundae"
+  },
+
+  {
+    "id": 40,
+    "title": "Rasgulla",
+    "cuisine": "Indian",
+    "category": "Dessert",
+    "serves": 6,
+    "postedBy": { "name": "Soma Banerjee", "userId": "u305" },
+    "ingredients": [
+      { "name": "Chenna", "quantity": 1, "unit": "cup" },
+      { "name": "Sugar", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Prepare chenna balls",
+      "Boil sugar syrup",
+      "Cook balls in syrup"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/rasgulla-1.jpg",
+      "https://cdn.recipesapp.com/rasgulla-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=rasgulla"
+  },
+  {
+    "id": 41,
+    "title": "Kheer",
+    "cuisine": "Indian",
+    "category": "Dessert",
+    "serves": 5,
+    "postedBy": { "name": "Alka Mishra", "userId": "u306" },
+    "ingredients": [
+      { "name": "Milk", "quantity": 1, "unit": "liter" },
+      { "name": "Rice", "quantity": 0.25, "unit": "cup" }
+    ],
+    "steps": [
+      "Boil milk",
+      "Add rice",
+      "Cook till thick"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/kheer-1.jpg",
+      "https://cdn.recipesapp.com/kheer-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=kheer"
+  },
+  {
+    "id": 42,
+    "title": "Apple Pie",
+    "cuisine": "American",
+    "category": "Dessert",
+    "serves": 6,
+    "postedBy": { "name": "John Carter", "userId": "u307" },
+    "ingredients": [
+      { "name": "Apple", "quantity": 4, "unit": "medium" },
+      { "name": "Flour", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Prepare pie dough",
+      "Make apple filling",
+      "Bake till golden"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/apple-pie-1.jpg",
+      "https://cdn.recipesapp.com/apple-pie-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=apple_pie"
+  },
+  {
+    "id": 43,
+    "title": "Fruit Custard",
+    "cuisine": "International",
+    "category": "Dessert",
+    "serves": 4,
+    "postedBy": { "name": "Neelam Gupta", "userId": "u308" },
+    "ingredients": [
+      { "name": "Milk", "quantity": 500, "unit": "ml" },
+      { "name": "Mixed Fruits", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Prepare custard",
+      "Cool completely",
+      "Add fruits"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/fruit-custard-1.jpg",
+      "https://cdn.recipesapp.com/fruit-custard-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=fruit_custard"
+  },
+  {
+    "id": 44,
+    "title": "Brownie Sundae",
+    "cuisine": "American",
+    "category": "Dessert",
+    "serves": 3,
+    "postedBy": { "name": "Kevin Moore", "userId": "u309" },
+    "ingredients": [
+      { "name": "Brownie", "quantity": 2, "unit": "pieces" },
+      { "name": "Ice Cream", "quantity": 2, "unit": "scoops" }
+    ],
+    "steps": [
+      "Warm brownie",
+      "Add ice cream",
+      "Top with syrup"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/brownie-sundae-1.jpg",
+      "https://cdn.recipesapp.com/brownie-sundae-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=brownie_sundae"
+  },
+  {
+    "id": 45,
+    "title": "Mousse",
+    "cuisine": "French",
+    "category": "Dessert",
+    "serves": 4,
+    "postedBy": { "name": "Claire Dubois", "userId": "u310" },
+    "ingredients": [
+      { "name": "Chocolate", "quantity": 200, "unit": "grams" },
+      { "name": "Cream", "quantity": 200, "unit": "ml" }
+    ],
+    "steps": [
+      "Melt chocolate",
+      "Fold whipped cream",
+      "Chill before serving"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/mousse-1.jpg",
+      "https://cdn.recipesapp.com/mousse-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=chocolate_mousse"
+  },
+
+  {
+    "id": 46,
+    "title": "Mango Smoothie",
+    "cuisine": "International",
+    "category": "Beverage",
+    "serves": 2,
+    "postedBy": { "name": "Ayesha Khan", "userId": "u401" },
+    "ingredients": [
+      { "name": "Mango", "quantity": 1, "unit": "cup" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Blend all ingredients",
+      "Serve chilled"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/mango-smoothie-1.jpg",
+      "https://cdn.recipesapp.com/mango-smoothie-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=mango_smoothie"
+  },
+  
+  {
+    "id": 47,
+    "title": "Masala Chai",
+    "cuisine": "Indian",
+    "category": "Beverage",
+    "serves": 2,
+    "postedBy": { "name": "Suresh Kumar", "userId": "u402" },
+    "ingredients": [
+      { "name": "Tea Leaves", "quantity": 2, "unit": "tsp" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Boil water with spices",
+      "Add tea leaves",
+      "Add milk and sugar"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/chai-1.jpg",
+      "https://cdn.recipesapp.com/chai-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=masala_chai"
+  },
+  {
+    "id": 48,
+    "title": "Cold Coffee",
+    "cuisine": "International",
+    "category": "Beverage",
+    "serves": 1,
+    "postedBy": { "name": "Nikhil Arora", "userId": "u403" },
+    "ingredients": [
+      { "name": "Coffee", "quantity": 1, "unit": "tbsp" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Blend coffee and milk",
+      "Add ice",
+      "Serve chilled"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/cold-coffee-1.jpg",
+      "https://cdn.recipesapp.com/cold-coffee-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=cold_coffee"
+  },
+  {
+    "id": 49,
+    "title": "Lemonade",
+    "cuisine": "International",
+    "category": "Beverage",
+    "serves": 2,
+    "postedBy": { "name": "Sarah Miller", "userId": "u404" },
+    "ingredients": [
+      { "name": "Lemon Juice", "quantity": 4, "unit": "tbsp" },
+      { "name": "Water", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Mix lemon juice and sugar",
+      "Add water",
+      "Serve cold"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/lemonade-1.jpg",
+      "https://cdn.recipesapp.com/lemonade-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=lemonade"
+  },
+  {
+    "id": 50,
+    "title": "Strawberry Milkshake",
+    "cuisine": "International",
+    "category": "Beverage",
+    "serves": 2,
+    "postedBy": { "name": "Ritika Jain", "userId": "u405" },
+    "ingredients": [
+      { "name": "Strawberries", "quantity": 1, "unit": "cup" },
+      { "name": "Milk", "quantity": 1.5, "unit": "cups" }
+    ],
+    "steps": [
+      "Blend strawberries and milk",
+      "Add sugar if needed",
+      "Serve chilled"
+    ],
+    "photos": [
+      "https://cdn.recipesapp.com/strawberry-milkshake-1.jpg",
+      "https://cdn.recipesapp.com/strawberry-milkshake-2.jpg"
+    ],
+    "video": "https://youtube.com/watch?v=strawberry_milkshake"
+  }
+
+
+]
