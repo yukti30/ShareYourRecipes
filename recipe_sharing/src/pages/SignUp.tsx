@@ -32,10 +32,10 @@ const SignUp = () => {
       })}
     >
       <FormControl marginY={5} isInvalid={!!errors.name}>
-        <FormLabel>Name</FormLabel>
+        <FormLabel>Username</FormLabel>
         <Input
           {...register("name", {
-            required: { value: true, message: "Name is required." },
+            required: { value: true, message: "Username is required." },
           })}
           id="name"
           type="text"
